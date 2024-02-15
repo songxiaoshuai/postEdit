@@ -1,7 +1,3 @@
-<div align=center>
-<img src="https://github.com/DaoD/INTERS/blob/main/logo1.jpg" width="150px">
-</div>
-
 
 ## Knowledge Editing on Black-box Large Language Models</h2>
 
