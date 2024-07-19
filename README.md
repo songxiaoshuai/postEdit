@@ -21,12 +21,10 @@ Our dataset and the models fine-tuned on it will be released soon!
 ## Citation
 Please kindly cite our paper if it helps your research:
 ```BibTex
-@misc{song2024knowledge,
-      title={Knowledge Editing on Black-box Large Language Models}, 
-      author={Xiaoshuai Song and Zhengyang Wang and Keqing He and Guanting Dong and Jinxu Zhao and Weiran Xu},
-      year={2024},
-      eprint={2402.08631},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{song2024knowledge,
+  title={Knowledge Editing on Black-box Large Language Models},
+  author={Song, Xiaoshuai and Wang, Zhengyang and He, Keqing and Dong, Guanting and Zhao, Jinxu and Xu, Weiran},
+  journal={arXiv preprint arXiv:2402.08631},
+  year={2024}
 }
 ```
