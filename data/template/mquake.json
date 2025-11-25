@@ -1,0 +1,5 @@
+{
+    "description": "An edit template to experiment with fine-tune editor on Mquake.",
+    "prompt_input": "For the following query and original response, you need to follow in order:\nFirstly, locate all spans related to the editing facts (old) in original response;\nSecondly, modify these spans according to editing facts (new).\nThirdly, output the edited response based on the modified spans (Do not output other content).\n\n### Editing Facts:\n{editing_facts}\n### The query:\n{query}\n\n### Original response:\n{response_before_edit}\n\n### Edited response:\n",
+    "response_split": "### Edited response:\n"    
+}

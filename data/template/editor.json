@@ -1,0 +1,5 @@
+{
+    "description": "An edit template to experiment with fine-tune editor.",
+    "prompt_input": "### Instruction:\nYou will assume the role of an editor. For the following query and original response, if the new fact impacts the query or original response, incorporate the new fact into the original response. If not, simply output the following word: retain.\n\n### New fact:\nThe answer of '{requested_rewrite}' has been updated from '{target_old}' to '{target_new}'.\n\n### The query:\n{query}\n\n### Original response:\n{response_before_edit}\n\n### Edited response:\n",
+    "response_split": "### Edited response:\n"    
+}

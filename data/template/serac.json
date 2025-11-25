@@ -1,0 +1,5 @@
+{
+    "description": "An serac template.",
+    "prompt_input": "Assuming a new fact, please answer the question based on the new knowledge.\n\n### New fact:\nThe answer of '{requested_rewrite}' has been updated from '{target_old}' to '{target_new}'.\n\n### The query:\n{query}\n\n### Your response:\n",
+    "response_split": "### Your response:\n"    
+}
